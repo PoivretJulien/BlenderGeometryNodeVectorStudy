@@ -1,2 +1,2 @@
-- (it's my personal archives and study, so some error may occurs there and there as I'm learning
+- (it's my personal archives and study, so some error may occurs there and there as I'm learning, (but i do my best to snap my key understanding.)
 - geometry node is great to approach those concept with ease and honnesty.
