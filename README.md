@@ -1,0 +1,2 @@
+- (it's my personal archives and study, so some error may occurs there and there as I'm learning
+- geometry node is great to approach those concept with ease and honnesty.
