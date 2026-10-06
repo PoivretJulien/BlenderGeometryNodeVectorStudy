@@ -1,7 +1,7 @@
 - (it's my personal archives and study, so some error may occurs there and there as I'm learning, (but i do my best to snap my key understanding.)
 - geometry node is great to approach those concepts with ease and honesty, providing a live computing and interactivity.
 - 
-- Some topics are quite advance, and may be underwhelming at first, but at list a functional application of the algorithm are sliced and documented
+- Some topics are quite advance, and may be underwhelming at first, but at least a functional application of the algorithm are sliced and documented
 - for further insight when needed, this documentation on such basic fundamentals have to be done at some point.
 - geometry node tend to focus on math first, it's still interesting to port the algorithm in the language of you choice next but first math and interaction on
 - the marvelous blender platform made for every one.
