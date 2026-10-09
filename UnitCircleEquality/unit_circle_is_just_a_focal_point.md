@@ -60,7 +60,7 @@ to fully control position but it's will not be as efficient as quaternions.
     - we need a point:  2 + 2i    ->   {x:2,y:2}
     - a equation cyclic remap i² = -1
 
-  First build our complex momentum rotation of 90°:
+- First build our complex momentum rotation of 90°:
          90° -> 0 + i  
          pt1 -> 2 + 2i
   
