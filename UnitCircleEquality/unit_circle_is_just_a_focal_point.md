@@ -53,10 +53,10 @@ to fully control position ) but it's will not be as efficient as quaternions for
       90°       |       cos(PI/2) + sin(Pi/2)i     |
      180°       |         cos(PI) + sin(PI)i       |
      270°       |      cos(3Pi/2) - sin(3PI/2)i    |
-
-Example 1:
-      
+    
 - So how to rotate a simple point:
+      
+Example 1:
     By multiplying one complex number by another one:
     - we need an angle: let say 90°, Pi/2 (in radians).
     - we need a point:  2 + 2i    ->   {x:2,y:2}
