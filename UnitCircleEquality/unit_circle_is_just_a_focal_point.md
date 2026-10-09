@@ -45,8 +45,8 @@ Of course cosine and sinus function embed this cyclic features by trigonometry t
 to express angles with complex numbers by mapping ( Cosine on x ) and ( Sinus on y point ) 
 but with algebra computing capability ( if we care to remap the i² = -1 ) this later will be more
 computing efficient, than matrix multiplication in 3 dimensions for describing rotation
-for now this only work in 2D only. ( we still can transform 2d points on oriented 3d Construction Plane )
-to fully control position but it's will not be as efficient as quaternions for 3d rotations.
+for now this only work in 2D only. ( we still can transform 2d points on oriented 3d Construction Plane 
+to fully control position ) but it's will not be as efficient as quaternions for 3d rotations for sure.
 
      angle      |          complex notation        |           real       imaginary
       45°       |       cos(PI/4) + sin(PI/4)i     |       (1/sqrt(2)) + (1/sqrt(2))i
