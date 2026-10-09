@@ -30,7 +30,7 @@ and this match the imaginary behavior i² = -1 now we are talking ! it's just th
 1*i*i*i*i = 360° = (+1)
 
 From this imaginary system we can model points rotation in time with ease 
-& computing efficiency with complex number imaginary algebra later with quaternions.
+and mostly computing efficiency with (complex imaginary algebra) later with quaternions.
 
 </pre>
 
