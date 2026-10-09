@@ -1,3 +1,11 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<body>
+
+<pre>
+
 - Quotes: "There is no wisdom from knowledge that we cannot instruct."
 
 - The real "face" of Unit Circle:
@@ -14,10 +22,15 @@ now replace x by the imaginary 'i' or 'j' and this match the imaginary behavior 
 - So we got a rotational behavior of:
 1*i = 90° = (+i)
 1*i*i = i² = 180° = (-1)
-1*i*i*i = 270° = (3Pi/2) = -i 
-1*i*i*i*i = 360° = 1
+1*i*i*i = 270° = (3Pi/2) = (-i) 
+1*i*i*i*i = 360° = (+1)
 
 From this imaginary system we can model point rotation in time with ease 
 & computing efficiency with complex number imaginary algebra later with quaternions.
+
+</pre>
+
+</body>
+</html>
 
 
