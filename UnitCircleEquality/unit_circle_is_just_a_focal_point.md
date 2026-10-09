@@ -29,8 +29,16 @@ and this match the imaginary behavior i² = -1 now we are talking ! it's just th
 1*i*i*i = 270° = (3Pi/2) = (-i) 
 1*i*i*i*i = 360° = (+1)
 
-From this imaginary system we can model points rotation in time with ease 
-and mostly computing efficiency with (complex imaginary algebra) later with quaternions.
+From this imaginary system, we can model point rotation in time with ease 
+and mostly computing efficiency with complex imaginary algebra (later with quaternions).
+
+Example of complex notation:
+  
+     angle      |    complex notation 
+      45°       |       1 + (1i)
+      90°       |       0 + (1i)
+     180°       |      -1 + (0i)
+     270°       |       0 - (1i)
 
 </pre>
 
