@@ -1,7 +1,7 @@
 - Quotes: "There is no wisdom from knowledge that we cannot instruct."
 
 - The real "face" of Unit Circle:
-The Unit Circle is fascinating but honestly a lie in term of calculus, from the infinity of the irrationality of Pi to fascinating amount of useful equality that we can extract 
+The Unit Circle is fascinating but honestly a lie in term of calculus, from the infinity of the irrationality of Pi to fascinating amount of useful equality that we can extract, 
 it sim that we can spend an infinite amount of time to describe by trying to think "outside the box" all the correlations of angles and trigonometric constructions, 
 but you are just sinking into infinite rationally... (and that's a good think conceptually for most).
 
