@@ -15,8 +15,7 @@ it sim that we can spend an infinite amount of time to describe by trying to thi
 all the correlations of angles and trigonometric constructions, but you are just sinking into
 infinite rationally... (and that's a good think conceptually for most).
 
-- However, handled from Euler angle, 
-We can leverage unit circle in a more practical way to describe time, 
+- However, handled from Euler angle, we can leverage unit circle in a more practical way to describe time, 
 ( useful for animations/simulations/interactions when collisions occurs ) by tracking spacial variation of an 
 imaginary fields called 'i' or 'j', for this... imaginary (or parallels fields) have to be cyclic and so multiplying one unit
 by 'i' or 'j' produce, a rotated angle of 90° in direction of (+i) and 1 * i * i a rotation of 180° (-1) this match the algebra 
@@ -42,6 +41,7 @@ efficiency with complex imaginary algebra (later with quaternions).
      270°       |       0 - (1i)
 
 - Complex number and angle:
+  
 Of course cosine and sinus function embed this cyclic features by trigonometry table to help us 
 to express angles with complex numbers by mapping ( Cosine on x ) and ( Sine on y point ) 
 but with algebra computing capability ( if we care to remap the i² = -1 ) this later will be more
@@ -54,7 +54,25 @@ to fully control position but it's will not be as efficient as quaternions.
       90°       |       cos(PI/2) + sin(Pi/2)i     |
      180°       |         cos(PI) + sin(PI)i       |
      270°       |      cos(3Pi/2) - sin(3PI/2)i    |
-    
+  
+- So how to rotate a simple point:
+    By multiplying one complex number by another one:
+    - we need an angle: let say 90°, Pi/2 (in radians).
+    - we need a point:  2 + 2i    ->   {x:2,y:2}
+    - a equation cyclic remap i² = -1
+
+  First build our complex momentum rotation of 90°:
+         90° -> 0 + i  
+         pt1 -> 2 + 2i
+  
+  ..., then multiply our point by the complex number momentum build from angle:
+  
+  - (simple) Algebra rotation computation:
+                    
+                   (0+i) * (2+2i) = 0 + 0 + 2i + 2i² = 2i + 2*(-1) = -2 + 2i = transformed point = { (real) x: -2 , (imaginary) y: 2 }
+  
+         
+  
 </pre>
 
 </body>
