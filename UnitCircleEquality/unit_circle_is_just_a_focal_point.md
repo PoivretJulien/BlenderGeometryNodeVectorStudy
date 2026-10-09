@@ -86,7 +86,8 @@ Example 1:
       (0-4i) * (2+2i) =   (0*2) + (0*2i) + (-4i*2) + (-4i*2i)  = 0 + 0 -8i -8i² = -8i -8*(-1) = 8 - 8i
 
 - note: 
-      this is just a rotation of point translation is a simple complex point addition or substraction.
+      this is just a rotation of points in 2d, 
+      translation, is a simple complex point addition or subtraction.
       
 </pre>
 </body>
