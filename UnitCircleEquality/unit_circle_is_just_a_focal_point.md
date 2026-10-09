@@ -90,6 +90,10 @@ Example 1:
       translation, is a simple complex point addition or subtraction 
       but one dimensional complex numbers are constraints to x and y only.
       
+A great video tutorial:
+      
+https://www.youtube.com/live/5PcpBw5Hbwo?si=QG9KIDwP5lAtx75S
+      
 </pre>
 </body>
 </html>
