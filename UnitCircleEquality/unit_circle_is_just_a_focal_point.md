@@ -16,7 +16,7 @@ all the correlations of angles and trigonometric constructions, but you are just
 infinite rationally... (and that's a good think conceptually for most).
 
 - However, handled from Euler angle, 
-we can leverage unit circle in a more practical way to describe time, 
+We can leverage unit circle in a more practical way to describe time, 
 ( useful for animations/simulations/interactions when collisions occurs ) by tracking spacial variation of an 
 imaginary fields called 'i' or 'j', for this... imaginary (or parallels fields) have to be cyclic and so multiplying one unit
 by 'i' or 'j' produce, a rotated angle of 90° in direction of (+i) and 1 * i * i a rotation of 180° (-1) this match the algebra 
