@@ -10,7 +10,7 @@
 
 - The real "face" of the unit circle:
       The unit circle is fascinating but honestly a lie in term of calculus, from the infinity 
-      of the irrationality of Pi to fascinating amount of useful equality that we can extract, 
+      of the irrationality of Pi to a fascinating amount of useful equality that we can extract, 
       it sim that we can spend an infinite amount of time to describe by trying to think "outside the box" 
       all the correlations of angles and trigonometric constructions, but you are just sinking into
       infinite rationally... (and that's a good think conceptually for most).
