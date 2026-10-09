@@ -69,7 +69,7 @@ to fully control position but it's will not be as efficient as quaternions.
   
   - (simple) Algebra rotation computation:
                     
-                   (0+i) * (2+2i) = 0 + 0 + 2i + 2i² = 2i + 2*(-1) = -2 + 2i = transformed point = { (real) x: -2 , (imaginary) y: 2 }
+  (0+i) * (2+2i) = 0 + 0 + 2i + 2i² = 2i + 2*(-1) = -2 + 2i = transformed point = { (real) x: -2 , (imaginary) y: 2 }
   
          
   
