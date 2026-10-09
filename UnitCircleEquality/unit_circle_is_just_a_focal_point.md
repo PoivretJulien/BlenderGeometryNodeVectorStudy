@@ -53,7 +53,9 @@ to fully control position but it's will not be as efficient as quaternions.
       90°       |       cos(PI/2) + sin(Pi/2)i     |
      180°       |         cos(PI) + sin(PI)i       |
      270°       |      cos(3Pi/2) - sin(3PI/2)i    |
-  
+
+Example 1:
+      
 - So how to rotate a simple point:
     By multiplying one complex number by another one:
     - we need an angle: let say 90°, Pi/2 (in radians).
@@ -78,9 +80,14 @@ to fully control position but it's will not be as efficient as quaternions.
      >>> complex(0+j) * complex(2+2j)
      >>> (-2+2j)
 ```  
-  
-</pre>
+      
+ Examle 2:
+      (0-4i) * (2+2i) =   (0*2) + (0*2i) + (-4i*2) + (-4i*2i)  = 0 + 0 -8i -8i² = -8i -8*(-1) = 8 - 8i
 
+- note: 
+      this is just a rotation of point translation is a simple complex point addition or substraction.
+      
+</pre>
 </body>
 </html>
 
