@@ -29,8 +29,8 @@ and this match the imaginary behavior i² = -1 now we are talking ! it's just th
 1*i*i*i = 270° = (3Pi/2) = (-i) 
 1*i*i*i*i = 360° = (+1)
 
-From this imaginary system, we can model point rotation in time with ease 
-and mostly computing efficiency with complex imaginary algebra (later with quaternions).
+From this imaginary system, we can model point rotation in time with ease and mostly computing 
+efficiency with complex imaginary algebra (later with quaternions).
 
 Example of complex notation:
   
@@ -40,6 +40,20 @@ Example of complex notation:
      180°       |      -1 + (0i)
      270°       |       0 - (1i)
 
+Complex number and Angle:
+Of course cosine and sinus function embed this cyclic features by trigonometry table to help us 
+to express angles with complex numbers by mapping ( Cosine on x ) and ( Sine on y point ) 
+but with algebra computing capability ( if we care to remap the i² = -1 ) this later will be more
+computing efficient, than matrix multiplication later in 3 dimensions for describing rotation
+for now this only work in 2D only. ( we still can transform 2d points on oriented 3d Constriction Plane )
+to fully control position but it's will not be as efficient as quaternions.
+
+     angle      |           complex notation       |           real        imaginary
+      45°       |       cos(PI/4) + sin(PI/4)i     |       (1/sqrt(2)) + (1/sqrt(2))i
+      90°       |       cos(PI/2) + sin(Pi/2)i     |
+     180°       |         cos(PI) + sin(PI)i       |
+     270°       |      cos(3Pi/2) - sin(3PI/2)i    |
+    
 </pre>
 
 </body>
