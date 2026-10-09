@@ -17,7 +17,7 @@ now replace x by the imaginary 'i' or 'j' and this match the imaginary behavior 
 1*i*i*i = 270° = (3Pi/2) = -i 
 1*i*i*i*i = 360° = 1
 
-- From this imaginary system we can model point rotation in time with ease and computing efficiency ( later in 3d with Quaternions )
-  with complex number imaginary algebra.
+From this imaginary system we can model point rotation in time with ease 
+& computing efficiency with complex number imaginary algebra later with quaternions.
 
 
