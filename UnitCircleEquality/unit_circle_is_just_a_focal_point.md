@@ -32,7 +32,7 @@ and this match the imaginary behavior i² = -1 now we are talking ! it's just th
 From this imaginary system, we can model point rotation in time with ease and mostly computing 
 efficiency with complex imaginary algebra (later with quaternions).
 
-Example of complex notation:
+- Example of complex notation:
   
      angle      |    complex notation 
       45°       |       1 + (1i)
@@ -40,7 +40,7 @@ Example of complex notation:
      180°       |      -1 + (0i)
      270°       |       0 - (1i)
 
-Complex number and Angle:
+- Complex number and Angle:
 Of course cosine and sinus function embed this cyclic features by trigonometry table to help us 
 to express angles with complex numbers by mapping ( Cosine on x ) and ( Sine on y point ) 
 but with algebra computing capability ( if we care to remap the i² = -1 ) this later will be more
