@@ -24,6 +24,7 @@ equation  x² + 1 = 0 producing this negative equality  x² = -1 , now replace x
 and this match the imaginary behavior i² = -1 now we are talking ! it's just the imaginary state of a motion in time.
 
 - So we got a rotational behavior of:
+  
 1*i = 90° = (+i)
 1*i*i = i² = 180° = (-1)
 1*i*i*i = 270° = (3Pi/2) = (-i) 
