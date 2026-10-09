@@ -42,7 +42,7 @@ efficiency with complex imaginary algebra (later with quaternions).
 - Complex number and angle:
   
 Of course cosine and sinus function embed this cyclic features by trigonometry table to help us 
-to express angles with complex numbers by mapping ( Cosine on x ) and ( Sine on y point ) 
+to express angles with complex numbers by mapping ( Cosine on x ) and ( Sinus on y point ) 
 but with algebra computing capability ( if we care to remap the i² = -1 ) this later will be more
 computing efficient, than matrix multiplication later in 3 dimensions for describing rotation
 for now this only work in 2D only. ( we still can transform 2d points on oriented 3d Constriction Plane )
