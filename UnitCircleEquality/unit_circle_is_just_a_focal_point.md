@@ -70,7 +70,7 @@ Example 1:
   
   - (simple) Algebra rotation computation:
                     
-  (0+i) * (2+2i) = (0*2) + (0*2i) + (i*2) + (i*2i) = 0 + 0 + 2i + 2i² = 2i + 2*(-1) = -2 + 2i 
+     (0+i) * (2+2i) = (0*2) + (0*2i) + (i*2) + (i*2i) = 0 + 0 + 2i + 2i² = 2i + 2*(-1) = -2 + 2i 
   
   transformed point = { (real) x: -2 , (imaginary) y: 2 }
       
@@ -87,7 +87,8 @@ Example 1:
 
 - note: 
       this is just a rotation of points in 2d, 
-      translation, is a simple complex point addition or subtraction.
+      translation, is a simple complex point addition or subtraction 
+      but one dimensional complex numbers are constraints to x and y only.
       
 </pre>
 </body>
