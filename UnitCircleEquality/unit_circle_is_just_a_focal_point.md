@@ -5,7 +5,6 @@
 <body>
 
 <pre>
-(about 15 minutes of rerading) 
 
 - Quotes: "There is no wisdom from knowledge that we cannot instruct."
 
