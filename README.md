@@ -33,7 +33,7 @@ the IA question from (my point of view):
         but we must still work and fight against laziness for our own dimensional perception,
         sending missiles in games is FUN ! and not the same as building factory for making them 
         and everyone need precise missiles right ? the real question is if we still be involved in the understanding
-        in the world pleasure/enjoyment against the world of IA ?
+        of own world pleasure/enjoyment/perception against the world of IA ?
          -> we are depository of the enjoyment and own understanding, of our own dimensional perception, where the 
         only enemy is laziness, facing the infinite real capability and the real effort put to regulate them...
         
