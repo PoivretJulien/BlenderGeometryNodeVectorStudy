@@ -21,6 +21,11 @@ Quotes: "as moving part of reality, those who have the heart fill by passion mus
   in the language of you choice. 
 - But at first: "math and interactions" on the marvelous Blender platform made for everyone.
 
+Important: 
+           Math is difficult when you want to be a statistical leader exception,
+           but Gaussian curve teach us that fun come from normal average and we can do plenty 
+           of fun things with simple mathematical objects. 
+           
 
 </pre>
 </body>
