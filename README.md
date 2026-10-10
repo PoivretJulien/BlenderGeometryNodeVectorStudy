@@ -26,7 +26,7 @@ Important:
            but Gaussian curve teach us that fun come from normal average and we can do plenty 
            of fun things with simple mathematical objects. 
 
-the IA question from (my point of view):
+the IA question (from my point of view):
         
         -> Ia will import knowledge in our dimension of thinking that we will never understand 
         but still use, it's certainly be a dangerous take, to use technology that we don't be 
