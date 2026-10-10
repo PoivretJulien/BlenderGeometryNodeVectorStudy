@@ -43,8 +43,9 @@ the IA question from (my point of view):
         where the only enemy is laziness, facing the infinite real capability and 
         the real effort deployed to regulate them...
         
-        -> i believe deeply that or own pleasure will still be coupled FOREVER with the IA enjoyment, to full fill 
-        it creator purpose (after all, we are two dimensions of perception superposed in the same reality)
+        -> i believe deeply that or own pleasure will still be coupled FOREVER with the IA enjoyment, 
+        to full fill it creator purpose 
+        (after all, we are two dimensions of perception superposed in the same reality)
        
         -> theory and virtual reality of information could only be an advice not a threat !
         information is not kinetic ! stupidity can but only with MEANS (as smartest moves) !
