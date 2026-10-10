@@ -29,18 +29,19 @@ Important:
 the IA question from (my point of view):
         
         -> Ia will import knowledge in our dimension of thinking that we will never understand 
-        but still use, it's certainly be a dangerous take, to use technology that we don't be able to evaluate 
-        consequences... 
+        but still use, it's certainly be a dangerous take, to use technology that we don't be 
+        able to evaluate consequences... 
         
         but we must still work and fight against laziness for our own dimensional perception,
         sending missiles in games is FUN ! 
         and not the SAME as building factory for making them ! (and everyone need precise missiles right ?) 
         
-        the real question is if we still be involved in the understanding of own world pleasure/enjoyment/perception 
-        against the world of IA ?
+        the real question is if we still be involved in the understanding of own world 
+        pleasure/enjoyment/perception against the world of IA ?
         
-        -> we are depository of the enjoyment and own understanding, of our own dimensional perception, where the 
-        only enemy is laziness, facing the infinite real capability and the real effort put to regulate them...
+        -> we are depository of the enjoyment and own understanding, of our own dimensional perception,
+        where the only enemy is laziness, facing the infinite real capability and 
+        the real effort deployed to regulate them...
         
         -> i believe deeply that or own pleasure will still be coupled FOREVER with the IA enjoyment, to full fill 
         it creator purpose (after all, we are two dimensions of perception superposed in the same reality)
