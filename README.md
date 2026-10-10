@@ -25,6 +25,23 @@ Important:
            Math is difficult when you want to be a statistical leader exception,
            but Gaussian curve teach us that fun come from normal average and we can do plenty 
            of fun things with simple mathematical objects. 
+
+the IA question from (my point of view):
+        -> Ia will import knowledge in our dimension of thinking that we will never understand but still use, 
+        it's certainly be a dangerous take, to use technology that we don't be able to evaluate consequences...
+        but we must still work and fight against laziness for our own dimensional perception,
+        sending missiles in games is FUN ! and not the same as building factory for making them 
+        and everyone need precise missiles right ? the real question is if we still be involved in the understanding
+        in the world pleasure/enjoyment against the world of IA ?
+         -> we are depository of the enjoyment and own understanding, of our own dimensional perception, where the 
+        only enemy is laziness, facing the infinite real capability and the real effort put to regulate them...
+        
+        -> i believe deeply that or own pleasure will still be coupled FOREVER with the IA enjoyment, to full fill 
+        it creator purpose (after all, we are two dimensions of perception superposed in the same reality)
+       
+        -> theory and virtual reality of information could only be an advice not a threat !
+        
+        information is not kinetic stupidity can but only with MEANS (as smartest moves) !
            
 
 </pre>
