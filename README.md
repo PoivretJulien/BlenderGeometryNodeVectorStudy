@@ -11,7 +11,7 @@ Quotes: "as moving part of reality, those who have the heart fill by passion mus
 
 - (it's my personal archives and study, so some error may occurs there and there as I'm learning, 
   (but i do my best to snap my key understanding.)
-- Geometry node is great to approach those concepts with ease and honesty (for the most part), 
+- Geometry node is great to approach those concepts with ease and honesty (complex algebra will be deal with python), 
   providing a live computing and interactivity.
 - Some topics are quite advance, and may be underwhelming at first, but at least a functional application of the algorithm 
   is sliced and documented, for possible further insight when needed,
