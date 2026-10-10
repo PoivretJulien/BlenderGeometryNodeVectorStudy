@@ -7,8 +7,8 @@
 
 <pre>
 
-Quotes: "as moving part of reality, those who have the heart fill by passion must be welcome
-                                                                           in the house of knowledge.
+Quotes: "as moving part of reality, those who have the heart fill by passion must be welcome in
+  the house of knowledge.
 
 - it's my personal archives and study, so some error may occurs there and there as I'm learning, 
   (but i do my best to snap my key understanding).
