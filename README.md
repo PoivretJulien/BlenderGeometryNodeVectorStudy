@@ -27,6 +27,7 @@ Important:
            of fun things with simple mathematical objects. 
 
 the IA question from (my point of view):
+        
         -> Ia will import knowledge in our dimension of thinking that we will never understand but still use, 
         it's certainly be a dangerous take, to use technology that we don't be able to evaluate consequences...
         but we must still work and fight against laziness for our own dimensional perception,
