@@ -20,7 +20,6 @@ Quotes: "as moving part of reality, those who have the heart fill by passion mus
   in the language of you choice. 
 - But at first: "math and interactions" on the marvelous Blender platform made for everyone.
 
-- Notes: (thoses note are work in progress) 
 
 </pre>
 </body>
