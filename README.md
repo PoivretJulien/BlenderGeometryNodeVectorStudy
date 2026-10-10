@@ -42,7 +42,7 @@ the IA question from (my point of view):
        
         -> theory and virtual reality of information could only be an advice not a threat !
         
-        information is not kinetic stupidity can but only with MEANS (as smartest moves) !
+        information is not kinetic ! stupidity can but only with MEANS (as smartest moves) !
            
 
 </pre>
