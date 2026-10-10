@@ -93,6 +93,11 @@ to fully control position ) but it's will not be as efficient as quaternions for
 A great video tutorial on this topic:
 https://www.youtube.com/live/5PcpBw5Hbwo?si=QG9KIDwP5lAtx75S
       
+End notes:
+      Why the unit circle is just a focal point well it's subjective of course,
+      but first PI is irrational, as looking closer it's never end,
+      and mainly the unit circle act as a spy glass in time to represent any phasors states (in space)
+      of any sine wave ( Fourier transform show that every signal is built from sine waves sub parts harmonic ).
 </pre>
 </body>
 </html>
